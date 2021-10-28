@@ -39,13 +39,7 @@
 	</build>
 
 
-	<servers>
-	  <server>
-	    <id>github</id>
-	    <username>priyesh176</username>
-	    <password>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</password>
-	  </server>
-	</servers>
+
 	<distributionManagement>
    		<repository>
   		   <id>github</id>
