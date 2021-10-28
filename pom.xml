@@ -44,7 +44,7 @@
    		<repository>
   		   <id>github</id>
    		   <name>GitHub OWNER Apache Maven Packages</name>
-   		   <url>https://maven.pkg.github.com/priyesh176/artifacts</url>
+   		   <url>https://maven.pkg.github.com/priyesh176/CS_Assignment</url>
  		  </repository>
 	</distributionManagement>
 
