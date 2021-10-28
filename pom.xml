@@ -37,6 +37,8 @@
 			</plugin>
 		</plugins>
 	</build>
+
+</settings>
 <servers>
   <server>
     <id>github</id>
@@ -44,7 +46,6 @@
     <password>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</password>
   </server>
 </servers>
-</settings>
 	<distributionManagement>
    		<repository>
   		   <id>github</id>
