@@ -74,7 +74,7 @@ jobs:
           DRY_RUN: false
 
       - name: Create a Release
-        uses: elgohr/Github-Release-Action@master
+        uses: elgohr/Github-Release-Action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
         with:
